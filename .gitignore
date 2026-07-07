@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+logs/
+data/*.db
+clips/
+recordings/
+.vscode/
